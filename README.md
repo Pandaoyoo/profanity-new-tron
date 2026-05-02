@@ -1,5 +1,6 @@
-# TRX地址、TRX20-USDT靓号生成器使用说明
-
+#### 看戏客官请移步：https://github.com/Powercodess/profanity-tron/ 
+项目开源不收费请联系TG:@G90602
+## TRX地址、TRX20-USDT靓号生成器使用说明
 ## 修复**profanity**（CVE-2022-40769）漏洞，利用**GPU**加速、代码全开源并去除后门盗U暗桩
 
 ## 1. 命令
